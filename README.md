@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @anTir3x
 - 👀 I like gaming and stuff
 - 🌱 I’m currently learning to code ...
-- 💞️ I dont even know hot to code just a newbie here
-- 📫 How to reach me ... @tsine3 telegram
-- i wanna be a software or a game dev
+- 💞️ I dont even know how to code just a newbie here
 - 
+- 📫 How to reach me ... @tsine3 telegram
+- i wanna be a software or a game dev but sucked 
+  
 
 
 <!---
